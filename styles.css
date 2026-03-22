@@ -199,3 +199,16 @@ header button {
   letter-spacing: -2%;
   color:var(--lightGray);
 }
+
+.hero-circle {
+  width: 451px;
+height: 115px;
+top: 140px;
+left: 670px;
+position: absolute;
+opacity: 1;
+border-radius: 1px;
+border-width: 2.2px;
+
+
+}
